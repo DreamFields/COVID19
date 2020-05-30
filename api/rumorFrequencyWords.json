@@ -1,86 +1,505 @@
 {
   "success": true,
   "data": [
-  {
-    "name": "Sam S Club",
-    "value": 10000
-  },{
-    "name": "Club",
-    "value": 10000
-  },{
-    "name": "S Club",
-    "value": 10000
-  },{
-    "name": "Sam",
-    "value": 10000
-  }, {
-    "name": "Macys",
-    "value": 6181
-  }, {
-    "name": "Nye",
-    "value": 4386
-  }, {
-    "name": "Ope",
-    "value": 4386
-  }, {
-    "name": "A",
-    "value": 4386
-  }, {
-    "name": "My",
-    "value": 4386
-  }, {
-    "name": "World",
-    "value": 4055
-  }, {
-    "name": "Charter",
-    "value": 2467
-  }, {
-    "name": "Chick",
-    "value": 2244
-  }, {
-    "name": "Planet",
-    "value": 1898
-  }, {
-    "name": "Pitch Perfect",
-    "value": 1484
-  }, {
-    "name": "Express",
-    "value": 1112
-  }, {
-    "name": "Home",
-    "value": 965
-  }, {
-    "name": "Johnny Depp",
-    "value": 847
-  }, {
-    "name": "Lena",
-    "value": 582
-  }, {
-    "name": "Lewis",
-    "value": 555
-  }, {
-    "name": "KXAN",
-    "value": 550
-  }, {
-    "name": "Ellen",
-    "value": 462
-  }, {
-    "name": "Farrah",
-    "value": 366
-  }, {
-    "name": "Rita",
-    "value": 360
-  }, {
-    "name": "Serena",
-    "value": 282
-  }, {
-    "name": "NCAA",
-    "value": 273
-  }, {
-    "name": "Point",
-    "value": 273
-  }, {
-    "name": "Point",
-    "value": 265
-  }]
+    {
+      "name": "隔离",
+      "value": 50
+    },
+    {
+      "name": "封城",
+      "value": 24
+    },
+    {
+      "name": " 超市",
+      "value": 21
+    },
+    {
+      "name": " 高速",
+      "value": 19
+    },
+    {
+      "name": " 飞机",
+      "value": 18
+    },
+    {
+      "name": " 温州",
+      "value": 18
+    },
+    {
+      "name": " 北京",
+      "value": 17
+    },
+    {
+      "name": " 物资",
+      "value": 12
+    },
+    {
+      "name": " 预防",
+      "value": 12
+    },
+    {
+      "name": " 上海",
+      "value": 11
+    },
+    {
+      "name": " 传染",
+      "value": 11
+    },
+    {
+      "name": " 封路",
+      "value": 10
+    },
+    {
+      "name": " 物流",
+      "value": 9
+    },
+    {
+      "name": " 消息",
+      "value": 9
+    },
+    {
+      "name": " 网民",
+      "value": 9
+    },
+    {
+      "name": " 造谣",
+      "value": 9
+    },
+    {
+      "name": " 传播",
+      "value": 8
+    },
+    {
+      "name": " 人员",
+      "value": 8
+    },
+    {
+      "name": " 朋友圈",
+      "value": 8
+    },
+    {
+      "name": " 防空",
+      "value": 8
+    },
+    {
+      "name": " 速度",
+      "value": 8
+    },
+    {
+      "name": " 流传",
+      "value": 8
+    },
+    {
+      "name": " 药物",
+      "value": 8
+    },
+    {
+      "name": " 消毒",
+      "value": 8
+    },
+    {
+      "name": " 停运",
+      "value": 7
+    },
+    {
+      "name": " 酒精",
+      "value": 7
+    },
+    {
+      "name": " 钟南",
+      "value": 7
+    },
+    {
+      "name": " 到货",
+      "value": 7
+    },
+    {
+      "name": " 有点",
+      "value": 7
+    },
+    {
+      "name": " 抢购",
+      "value": 6
+    },
+    {
+      "name": " 这样",
+      "value": 6
+    },
+    {
+      "name": " 性价比",
+      "value": 6
+    },
+    {
+      "name": " 一般般",
+      "value": 6
+    },
+    {
+      "name": " 出现",
+      "value": 6
+    },
+    {
+      "name": " 以前",
+      "value": 6
+    },
+    {
+      "name": " 到手",
+      "value": 2
+    },
+    {
+      "name": " 发现",
+      "value": 2
+    },
+    {
+      "name": " 掉电",
+      "value": 2
+    },
+    {
+      "name": " 华为",
+      "value": 2
+    },
+    {
+      "name": " 再也",
+      "value": 2
+    },
+    {
+      "name": " 不用",
+      "value": 2
+    },
+    {
+      "name": " 给力",
+      "value": 2
+    },
+    {
+      "name": " 两天",
+      "value": 2
+    },
+    {
+      "name": " 立马",
+      "value": 2
+    },
+    {
+      "name": " 两周",
+      "value": 2
+    },
+    {
+      "name": " 处理器",
+      "value": 2
+    },
+    {
+      "name": " 关机",
+      "value": 2
+    },
+    {
+      "name": " 要么",
+      "value": 2
+    },
+    {
+      "name": " 满血",
+      "value": 2
+    },
+    {
+      "name": " 不会",
+      "value": 2
+    },
+    {
+      "name": " 定金",
+      "value": 2
+    },
+    {
+      "name": " 付款",
+      "value": 2
+    },
+    {
+      "name": " 心情",
+      "value": 2
+    },
+    {
+      "name": " 另外",
+      "value": 2
+    },
+    {
+      "name": " 游戏",
+      "value": 2
+    },
+    {
+      "name": " 公司",
+      "value": 2
+    },
+    {
+      "name": " 按键",
+      "value": 2
+    },
+    {
+      "name": " 卡顿",
+      "value": 2
+    },
+    {
+      "name": " 晚上",
+      "value": 2
+    },
+    {
+      "name": " 百分之",
+      "value": 2
+    },
+    {
+      "name": " 手机信号",
+      "value": 2
+    },
+    {
+      "name": " 一下",
+      "value": 2
+    },
+    {
+      "name": " 开学",
+      "value": 2
+    },
+    {
+      "name": " 上班",
+      "value": 2
+    },
+    {
+      "name": " 上天",
+      "value": 2
+    },
+    {
+      "name": " 配送",
+      "value": 2
+    },
+    {
+      "name": " 最后",
+      "value": 2
+    },
+    {
+      "name": " 太慢",
+      "value": 2
+    },
+    {
+      "name": " 手机套",
+      "value": 2
+    },
+    {
+      "name": " 笨重",
+      "value": 2
+    },
+    {
+      "name": " 半年",
+      "value": 2
+    },
+    {
+      "name": " 屏险",
+      "value": 2
+    },
+    {
+      "name": " 先发",
+      "value": 2
+    },
+    {
+      "name": " 不灵敏",
+      "value": 2
+    },
+    {
+      "name": " 硬度",
+      "value": 2
+    },
+    {
+      "name": " 这次",
+      "value": 2
+    },
+    {
+      "name": " 性能",
+      "value": 2
+    },
+    {
+      "name": " 介绍",
+      "value": 2
+    },
+    {
+      "name": " 卡针",
+      "value": 2
+    },
+    {
+      "name": " 不理",
+      "value": 2
+    },
+    {
+      "name": " 这是",
+      "value": 2
+    },
+    {
+      "name": " 买来",
+      "value": 2
+    },
+    {
+      "name": " 两次",
+      "value": 2
+    },
+    {
+      "name": " 网络",
+      "value": 2
+    },
+    {
+      "name": " 就裂",
+      "value": 2
+    },
+    {
+      "name": " 没用",
+      "value": 2
+    },
+    {
+      "name": " 多次",
+      "value": 2
+    },
+    {
+      "name": " 钢化",
+      "value": 2
+    },
+    {
+      "name": " 一星怪",
+      "value": 1
+    },
+    {
+      "name": " 新款",
+      "value": 1
+    },
+    {
+      "name": " 你行",
+      "value": 1
+    },
+    {
+      "name": " 没送",
+      "value": 1
+    },
+    {
+      "name": " 一个多",
+      "value": 1
+    },
+    {
+      "name": " 礼拜",
+      "value": 1
+    },
+    {
+      "name": " 只能",
+      "value": 1
+    },
+    {
+      "name": " 价位",
+      "value": 1
+    },
+    {
+      "name": " 闪退",
+      "value": 1
+    },
+    {
+      "name": " 抢到",
+      "value": 1
+    },
+    {
+      "name": " 其它",
+      "value": 1
+    },
+    {
+      "name": " 便宜",
+      "value": 1
+    },
+    {
+      "name": " 两百",
+      "value": 1
+    },
+    {
+      "name": " 盈利",
+      "value": 1
+    },
+    {
+      "name": " 知道",
+      "value": 6
+    },
+    {
+      "name": " 一次",
+      "value": 6
+    },
+    {
+      "name": " 真的",
+      "value": 6
+    },
+    {
+      "name": " 收到",
+      "value": 6
+    },
+    {
+      "name": " 其他",
+      "value": 6
+    },
+    {
+      "name": " 电量",
+      "value": 6
+    },
+    {
+      "name": " 还是",
+      "value": 6
+    },
+    {
+      "name": " 不行",
+      "value": 6
+    },
+    {
+      "name": " 红米",
+      "value": 6
+    },
+    {
+      "name": " 那么",
+      "value": 6
+    },
+    {
+      "name": " 挺快",
+      "value": 5
+    },
+    {
+      "name": " 现在",
+      "value": 5
+    },
+    {
+      "name": " 服务",
+      "value": 5
+    },
+    {
+      "name": " 充电",
+      "value": 5
+    },
+    {
+      "name": " 流畅",
+      "value": 5
+    },
+    {
+      "name": " 系统",
+      "value": 5
+    },
+    {
+      "name": " 非常",
+      "value": 5
+    },
+    {
+      "name": " 满意",
+      "value": 5
+    },
+    {
+      "name": " 购物",
+      "value": 5
+    },
+    {
+      "name": " 玩游戏",
+      "value": 5
+    },
+    {
+      "name": " 信号",
+      "value": 5
+    },
+    {
+      "name": " 不了",
+      "value": 5
+    },
+    {
+      "name": " 别人",
+      "value": 5
+    }
+  ]
 }

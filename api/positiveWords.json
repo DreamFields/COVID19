@@ -1,86 +1,55 @@
 {
   "success": true,
   "data": [
-  {
-    "name": "Sam S Club",
-    "value": 10000
-  },{
-    "name": "Club",
-    "value": 10000
-  },{
-    "name": "S Club",
-    "value": 10000
-  },{
-    "name": "Sam",
-    "value": 10000
-  }, {
-    "name": "Macys",
-    "value": 6181
-  }, {
-    "name": "Nye",
-    "value": 4386
-  }, {
-    "name": "Ope",
-    "value": 4386
-  }, {
-    "name": "A",
-    "value": 4386
-  }, {
-    "name": "My",
-    "value": 4386
-  }, {
-    "name": "World",
-    "value": 4055
-  }, {
-    "name": "Charter",
-    "value": 2467
-  }, {
-    "name": "Chick",
-    "value": 2244
-  }, {
-    "name": "Planet",
-    "value": 1898
-  }, {
-    "name": "Pitch Perfect",
-    "value": 1484
-  }, {
-    "name": "Express",
-    "value": 1112
-  }, {
-    "name": "Home",
-    "value": 965
-  }, {
-    "name": "Johnny Depp",
-    "value": 847
-  }, {
-    "name": "Lena",
-    "value": 582
-  }, {
-    "name": "Lewis",
-    "value": 555
-  }, {
-    "name": "KXAN",
-    "value": 550
-  }, {
-    "name": "Ellen",
-    "value": 462
-  }, {
-    "name": "Farrah",
-    "value": 366
-  }, {
-    "name": "Rita",
-    "value": 360
-  }, {
-    "name": "Serena",
-    "value": 282
-  }, {
-    "name": "NCAA",
-    "value": 273
-  }, {
-    "name": "Point",
-    "value": 273
-  }, {
-    "name": "Point",
-    "value": 265
-  }]
+    {"value": 1776, "name": "信息"}
+  ,{"value": 1751, "name": "预计"}
+  ,{"value": 1749, "name": "抗击"}
+  ,{"value": 1742, "name": "发展"}
+  ,{"value": 1729, "name": "方面"}
+  ,{"value": 1705, "name": "pandemic"}
+  ,{"value": 1700, "name": "10日"}
+  ,{"value": 1689, "name": "全国"}
+  ,{"value": 1687, "name": "现在"}
+  ,{"value": 1684, "name": "担忧"}
+  ,{"value": 1675, "name": "2月"}
+  ,{"value": 1673, "name": "生命"}
+  ,{"value": 1666, "name": "团结"}
+  ,{"value": 1664, "name": "有效"}
+  ,{"value": 1650, "name": "提供"}
+  ,{"value": 1646, "name": "增长"}
+  ,{"value": 1643, "name": "媒体"}
+  ,{"value": 1639, "name": "如果"}
+  ,{"value": 1597, "name": "健康"}
+  ,{"value": 1595, "name": "德国"}
+  ,{"value": 1594, "name": "主要"}
+  ,{"value": 1594, "name": "因为"}
+  ,{"value": 1586, "name": "一种"}
+  ,{"value": 1570, "name": "人民"}
+  ,{"value": 1563, "name": "紧急状态"}
+  ,{"value": 1555, "name": "得到"}
+  ,{"value": 1554, "name": "共同"}
+  ,{"value": 1552, "name": "遏制"}
+  ,{"value": 1551, "name": "市场"}
+  ,{"value": 1543, "name": "战略"}
+  ,{"value": 1542, "name": "口罩"}
+  ,{"value": 1542, "name": "..."}
+  ,{"value": 1537, "name": "人类"}
+  ,{"value": 1536, "name": "从未"}
+  ,{"value": 1531, "name": "此外"}
+  ,{"value": 1520, "name": "深感"}
+  ,{"value": 1519, "name": "北京"}
+  ,{"value": 1513, "name": "发现"}
+  ,{"value": 1507, "name": "还是"}
+  ,{"value": 1506, "name": "安全"}
+  ,{"value": 1504, "name": "描述"}
+  ,{"value": 1501, "name": "人们"}
+  ,{"value": 1498, "name": "13日"}
+  ,{"value": 1497, "name": "日本"}
+  ,{"value": 1495, "name": "事件"}
+  ,{"value": 1478, "name": "挑战"}
+  ,{"value": 1477, "name": "特朗普"}
+  ,{"value": 1468, "name": "而是"}
+  ,{"value": 1463, "name": "在于"}
+  ,{"value": 1462, "name": "例行"}
+  ]
 }

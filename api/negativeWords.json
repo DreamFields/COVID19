@@ -1,86 +1,55 @@
 {
   "success": true,
   "data": [
-  {
-    "name": "Sam S Club",
-    "value": 10000
-  },{
-    "name": "Club",
-    "value": 100
-  },{
-    "name": "S Club",
-    "value": 1000
-  },{
-    "name": "Sam",
-    "value": 700
-  }, {
-    "name": "Macys",
-    "value": 6181
-  }, {
-    "name": "Nye",
-    "value": 438
-  }, {
-    "name": "Ope",
-    "value": 2386
-  }, {
-    "name": "A",
-    "value": 4086
-  }, {
-    "name": "My",
-    "value": 486
-  }, {
-    "name": "World",
-    "value": 4055
-  }, {
-    "name": "Charter",
-    "value": 2467
-  }, {
-    "name": "Chick",
-    "value": 2244
-  }, {
-    "name": "Planet",
-    "value": 189
-  }, {
-    "name": "Pitch Perfect",
-    "value": 1484
-  }, {
-    "name": "Express",
-    "value": 1112
-  }, {
-    "name": "Home",
-    "value": 965
-  }, {
-    "name": "Johnny Depp",
-    "value": 847
-  }, {
-    "name": "Lena",
-    "value": 58
-  }, {
-    "name": "Lewis",
-    "value": 555
-  }, {
-    "name": "KXAN",
-    "value": 550
-  }, {
-    "name": "Ellen",
-    "value": 462
-  }, {
-    "name": "Farrah",
-    "value": 366
-  }, {
-    "name": "Rita",
-    "value": 360
-  }, {
-    "name": "Serena",
-    "value": 282
-  }, {
-    "name": "NCAA",
-    "value": 273
-  }, {
-    "name": "Point",
-    "value": 273
-  }, {
-    "name": "Point",
-    "value": 265
-  }]
+    {"value": 2445, "name": "总统"}
+  ,{"value": 2414, "name": "包括"}
+  ,{"value": 2414, "name": "暴发"}
+  ,{"value": 2411, "name": "关注"}
+  ,{"value": 2402, "name": "预防"}
+  ,{"value": 2386, "name": "威胁"}
+  ,{"value": 2385, "name": "成为"}
+  ,{"value": 2378, "name": "过去"}
+  ,{"value": 2349, "name": "数量"}
+  ,{"value": 2345, "name": "记者"}
+  ,{"value": 2341, "name": "进入"}
+  ,{"value": 2312, "name": "定义"}
+  ,{"value": 2280, "name": "使用"}
+  ,{"value": 2250, "name": "新华社"}
+  ,{"value": 2236, "name": "需要"}
+  ,{"value": 2219, "name": "行动"}
+  ,{"value": 2207, "name": "引发"}
+  ,{"value": 2190, "name": "人员"}
+  ,{"value": 2141, "name": "保护"}
+  ,{"value": 2140, "name": "未来"}
+  ,{"value": 2116, "name": "进一步"}
+  ,{"value": 2097, "name": "报道"}
+  ,{"value": 2090, "name": "积极"}
+  ,{"value": 2083, "name": "工作"}
+  ,{"value": 2082, "name": "新型"}
+  ,{"value": 2048, "name": "举行"}
+  ,{"value": 2028, "name": "紧急"}
+  ,{"value": 2014, "name": "抗疫"}
+  ,{"value": 2006, "name": "发布"}
+  ,{"value": 2004, "name": "再次"}
+  ,{"value": 2004, "name": "当前"}
+  ,{"value": 1995, "name": "聚集性"}
+  ,{"value": 1994, "name": "患者"}
+  ,{"value": 1977, "name": "必须"}
+  ,{"value": 1977, "name": "活动"}
+  ,{"value": 1920, "name": "两周"}
+  ,{"value": 1914, "name": "who"}
+  ,{"value": 1907, "name": "医院"}
+  ,{"value": 1890, "name": "造成"}
+  ,{"value": 1884, "name": "接受"}
+  ,{"value": 1866, "name": "此前"}
+  ,{"value": 1855, "name": "开始"}
+  ,{"value": 1847, "name": "虽然"}
+  ,{"value": 1836, "name": "全球性"}
+  ,{"value": 1834, "name": "114个"}
+  ,{"value": 1832, "name": "专家"}
+  ,{"value": 1816, "name": "至少"}
+  ,{"value": 1813, "name": "问题"}
+  ,{"value": 1810, "name": "发布会"}
+  ,{"value": 1801, "name": "风险"}
+  ]
 }
